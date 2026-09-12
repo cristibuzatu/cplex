@@ -1,0 +1,329 @@
+#EXTM3U
+
+############################################################################
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-name="Pro TV", Pro TV
+#https://.m3u8
+############################################################################
+
+
+# =====================================
+# STIRI
+# =====================================
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_Digi_24_%282023%29.svg/3840px-Logo_Digi_24_%282023%29.svg.png" group-title="News",Digi 24 
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:60 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/3840px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
+#EXTVLCOPT:network-caching=1000
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8?ads.wurl_channel=1655&ads.wurl_name=BBCNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDE5MjUxMjY1NX0
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67f522bde68e3bcdc008c089&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=news&AV_CONTENT_CAT=IAB12&AV_CONTENT_RATING=PG-13&AV_CLIENT_SECTION=france24&content_channel_name=france24&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8345
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="News",TRT World HD
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/3840px-Logo_TV5Monde_2025.svg.png" group-title="News",TV5Monde Europe
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:0 tvg-logo="https://enseigner.tv5monde.com/sites/enseigner/files/styles/large_720x/public/2025-10/96.png" group-title="News",TV5Monde Info
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngall.com/wp-content/uploads/20/Tv-Brics-International-Media-Network-Logo-PNG.png" group-title="News",TV BRICS English
+#EXTVLCOPT:network-caching=1000
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DW_%28TV%29_Logo_2012.png/330px-DW_%28TV%29_Logo_2012.png" group-title="News",DW English
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/NBC_News_Now_2023.svg/1280px-NBC_News_Now_2023.svg.png" group-title="News",NBC News NOW
+#EXTVLCOPT:network-caching=1000
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="News",Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+# =====================================
+# MUZICA
+# =====================================
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Dance 
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="Muzica",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1280px-Deluxe_Music_Logo_2019.svg.png" group-title="Muzica",Deluxe Music HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Muzica",Atomic TV 
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Muzica",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Magic-tv.png" group-title="Muzica",Magic TV 
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wikitide.net/indietvwiki/thumb/e/e1/Totalmusic_Main_Logo.png/300px-Totalmusic_Main_Logo.png" group-title="Muzica",Totalmusic
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-logo="https://www.itizaps.net/zapper/logo/b/totalmusic-2000s.png" group-title="Muzica",Totalmusic 2000s
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-logo="https://www.itizaps.net/zapper/logo/b/totalmusic-dance.png" group-title="Muzica",Totalmusic Dance
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/250px-Radio_m2o_-_Logo_2019.svg.png" group-title="Muzica",m2o TV
+#EXTVLCOPT:network-caching=1000
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Muzica",XITE
+#EXTVLCOPT:network-caching=1000
+https://xite-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb79c1102-0a7d-4310-a0df-6cbe6fb660e2%2Fxitehits_logo_WHITE_-_Arlette_FiranRDX2.png" group-title="Muzica",XITE Hits
+#EXTVLCOPT:network-caching=1000
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+
+#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Muzica",XITE Siempre Latino
+#EXTVLCOPT:network-caching=1000
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+
+
+# =====================================
+# CALATORIE
+# =====================================
+
+#EXTINF:0 tvg-logo="" group-title="Calatorie",China Travel
+#EXTVLCOPT:network-caching=1000
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Calatorie",Discovering China
+#EXTVLCOPT:network-caching=1000
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8?
+
+#EXTINF:57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Calatorie",Travel XP
+#EXTVLCOPT:network-caching=1000
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.autentic.com/images/wurl-bits-a-travel.jpg" group-title="Calatorie",Autentic Travel
+#EXTVLCOPT:network-caching=1000
+https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Calatorie",Voyages & Saveurs
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedfb7e833e0c0d606b95d&AV_CONTENT_LANGUAGE=fr&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=voyagesetsaveurs_lovetv&content_channel_name=Voyages%20et%20Saveurs&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7993
+
+# =====================================
+# BUSINESS
+# =====================================
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" group-title="Business",CGTN Global Biz
+#EXTVLCOPT:network-caching=1000
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/64/2/cnbc-2025-logo-png_seeklogo-648367.png" group-title="Business",CNBC
+#EXTVLCOPT:network-caching=1000
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://assets.bbhub.io/media/sites/2/2023/04/Bloomberg-Originals-Logo.png" group-title="Business",Bloomberg Originals
+#EXTVLCOPT:network-caching=1000
+https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8?ads.wurl_channel=903&ads.wurl_name=BloombergOriginals&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzMwNzYwNzI1NH0
+
+#EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/57a4dab7d889cead3d06c25c4634c93c.png" group-title="Business", Bloomberg TV+
+#EXTVLCOPT:network-caching=1000
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business",Yahoo! Finance
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-yahoofinance-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg5Nn0
+
+# =====================================
+# NATURA
+# =====================================
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1d/Love_Nature_TV.png" group-title="Natura",LoveNature
+#EXTVLCOPT:network-caching=1000
+https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/1280px-BBC_Earth.svg.png" group-title="Natura",BBC Earth
+#EXTVLCOPT:network-caching=1000
+https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIxMzkxODA5NX0
+
+#EXTINF:59 tvg-logo="https://www.autentic.com/images/wurl-bits-adventure-earth.jpg" group-title="Natura",Adventure Earth
+#EXTVLCOPT:network-caching=1000
+https://c0e8b28e7e0047dbb3f512e53c9d3f1e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa_AdventureEarth/playlist.m3u8?ads.wurl_channel=1299&ads.wurl_name=AdventureEarth&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.w=&ads.h=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8885
+
+#EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/6602da63678ca0e7eaba985f/6602eb68b38d33a3be9253b3_Logo%20Love%20The%20Planet%20para%20nuestros%20canales_0.png" group-title="Natura",Love the planet
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedc668d17ebe2b70a9566&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=lovetheplanet_lovetv&content_channel_name=Love%20the%20Planet&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7977
+
+#EXTINF:0 tvg-logo="https://www.terramater.at/wp-content/uploads/2024/09/90458a47c1a07e36c445b6140cb46cf8-1034x597.png" group-title="Natura",Terra Mater Wild
+#EXTVLCOPT:network-caching=1000
+https://amg01775-amg01775c1-amgplt0086.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0086/playlist.m3u8?app_name=REPLACEME&app_store_url=REPLACEME&app_version=REPLACEME&coppa=REPLACEME&gdpr_consent=REPLACEME&ic=REPLACEME&w=REPLACEME&client_id=REPLACEME&client_section=REPLACEME&device_country=REPLACEME&device_make=REPLACEME&device_osv=REPLACEME&device_type=REPLACEME&gdpr=REPLACEME&h=REPLACEME&app_bundle=REPLACEME&did=REPLACEME&ifa=REPLACEME&ifa_type=REPLACEME&schain=REPLACEME&us_privacy=REPLACEME&vauth=REPLACEME&brand_name=REPLACEME&device_language=REPLACEME&dnt=REPLACEME&pod_ad_slots=REPLACEME&url=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8993
+
+#EXTINF:0 tvg-logo="https://image.pngaaa.com/267/8108267-middle.png" group-title="Natura",WildEarth
+#EXTVLCOPT:network-caching=1000
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+
+# =====================================
+# BUCATARIE
+# =====================================
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/BBC_Food_logo.png/330px-BBC_Food_logo.png" group-title="Bucatarie",BBC Food
+#EXTVLCOPT:network-caching=1000
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8?ads.wurl_channel=1809&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDMzNTI0NDg3NX0
+
+#EXTINF:0 tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/TASTE/large_dark.png" group-title="Bucatarie",Tastemade Food & More
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg5Mn0
+
+#EXTINF:0 tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveWine_circle.png" group-title="Bucatarie",Love Wine
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedb8af3a6673c1d0c7859&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=lovewine_lovetv&content_channel_name=Love%20Wine&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7990
+
+#EXTINF:59 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/960px-Gusto_TV_logo.jpg" group-title="Bucatarie",Gusto TV
+#EXTVLCOPT:network-caching=1000
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://worldscreenings.com/wp-content/uploads/2024/07/NEWID-LOGO-2024.png" group-title="Bucatarie",New K Food
+#EXTVLCOPT:network-caching=1000
+https://newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8
+
+# =====================================
+# GENERAL
+# =====================================
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/AxMen-81578.png" group-title="General",Ax Men
+#EXTVLCOPT:network-caching=1000
+https://8d46229f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXhNZW5fSExT/playlist.m3u8?ads.wurl_channel=998&ads.wurl_name=AxMen&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzQ1NjY3OTAzMX0
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/1280px-Logo_Welt_der_Wunder_neu.svg.png" group-title="General",Welt der Wunder TV
+#EXTVLCOPT:network-caching=1000
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/960px-Antena_1_Logo_%282022-present%29.svg.png" group-title="General",Antena 1 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:network-caching=1000
+https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
+
+#EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo-391x375.png" group-title="General",Kanal D Romania 
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="General",ARD-alpha
+#EXTVLCOPT:network-caching=1000
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/250px-BBC_America_logo_2021.svg.png" group-title="General",BBC America
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/330px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="General",BR Fernsehen Nord
+#EXTVLCOPT:network-caching=1000
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" group-title="General",Das Erste HD
+#EXTVLCOPT:network-caching=1000
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hr-fernsehen-logo.svg/1280px-Hr-fernsehen-logo.svg.png" group-title="General",hr-fernsehen
+#EXTVLCOPT:network-caching=1000
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/1280px-CARAC1_logo_2023.svg.png" group-title="General",Carac 1
+#EXTVLCOPT:network-caching=1000
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/CARAC2_logo_2023.svg/1280px-CARAC2_logo_2023.svg.png" group-title="General",Carac 2
+#EXTVLCOPT:network-caching=1000
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CARAC3_logo_2023.svg/1280px-CARAC3_logo_2023.svg.png" group-title="General",Carac 3
+#EXTVLCOPT:network-caching=1000
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CARAC4_logo_2023.svg/1280px-CARAC4_logo_2023.svg.png" group-title="General",Carac 4
+#EXTVLCOPT:network-caching=1000
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+
+
+# =====================================
+# SPORT
+# =====================================
+
+#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="Sport",Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://a93379cfd9984195b6101828a7a95b81.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-VIDAA/641/vidaa/hls/master/playlist.m3u8?ads.ifa=IFA&ads.ifa_type=IFA_TYPE&ads.device_type=DEVICE_TYPE&ads.brand_name=BRAND_NAME&ads.device_country=DEVICE_COUNTRY&ads.device_osv=DEVICE_OSV&ads.device_language=DEVICE_LANGUAGE&ads.dnt=DNT&ads.gdpr=GDPR&ads.gdpr_consent=GDPR_CONSENT&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ad.vpi=VPI&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.vidaa_ads_param=1199898630
+
+#EXTINF:0 tvg-logo="https://www.unistechnology.com.hk/wp-content/uploads/2023/06/Logo-2.png" group-title="Sport",Wicked Tuna
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
+
+# =====================================
+# LIFESTYLE
+# =====================================
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/3840px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TonyRobbins_white_logo._SL500_FMpng_.png" group-title="Lifestyle",Tony Robbins Network
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8
+
+#EXTINF:54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TMZ_Logo.svg/1280px-TMZ_Logo.svg.png" group-title="Lifestyle",TMZ
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1280px-NBC_LX_Home_2023.svg.png" group-title="Lifestyle",NBCLX
+#EXTVLCOPT:network-caching=1000
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+#EXTINF:0 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/9406/280348-258901/0564d4ec4885448fc55b26b11c1ae743.png" group-title="Lifestyle",ET
+#EXTVLCOPT:network-caching=1000
+https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FxrVrJYTmTfitfXBQfeZByQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&height=1080&ip_addr=86.48.9.131&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
+
+# =====================================
+# DOCUMENTARE
+# =====================================
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1280px-CGTN_Documentary.svg.png" group-title="DOCUMENTARE",CGTN Documentary
+#EXTVLCOPT:network-caching=1000
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110304/AutenticHistory.jpg" group-title="DOCUMENTARE",Autentic History
+#EXTVLCOPT:network-caching=1000
+https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/500px-CuriosityStreamBlack.svg.png" group-title="DOCUMENTARE",Curiosity Now
+#EXTVLCOPT:network-caching=1000
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
