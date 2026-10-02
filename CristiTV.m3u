@@ -214,11 +214,6 @@ https://8d46229f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 #EXTVLCOPT:network-caching=1000
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/960px-Antena_1_Logo_%282022-present%29.svg.png" group-title="General",Antena 1 HD
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:network-caching=1000
-https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
-
 #EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo-391x375.png" group-title="General",Kanal D Romania 
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 
