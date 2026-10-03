@@ -261,6 +261,69 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="US - ABC  HD ◉" tvg-logo="https://go4.pw/USA/abc1.png" group-title="General",ABC  HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEyOTMudHM=
+
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US - A&E WEST HD" tvg-logo="https://go4.pw/USA/a&ee.png" group-title="General",A&E WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA2MDE3Mi50cw==
+
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US - AMC HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="General",AMC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzAudHM=
+
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US - AMC+ HD" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="General",AMC+ HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjAxMDczLnRz
+
+#EXTINF:-1 tvg-id="awe.us" tvg-name="US - AWE HD" tvg-logo="https://go4.pw/USA/awe.png" group-title="General",AWE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzNDYudHM=
+
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US - BET EAST HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/BET.png" group-title="General",BET EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgwOTY4LnRz
+
+#EXTINF:-1 tvg-id="betwest.us" tvg-name="US - BET WEST HD" tvg-logo="https://go4.pw/AMERICA/USA/BET.png" group-title="General",BET WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzEudHM=
+
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US - BRAVO HD ◉" tvg-logo="https://go4.pw/CARIBBIEAN/_BRAVO.png" group-title="General",BRAVO HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMDYudHM=
+
+#EXTINF:-1 tvg-id="bravowest.us" tvg-name="US - BRAVO WEST HD" tvg-logo="https://go4.pw/CARIBBIEAN/_BRAVO.png" group-title="General",BRAVO WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMjMudHM=
+
+#EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="US - CBS HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png" group-title="General",CBS HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTM3NjA1My50cw==
+
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="US - CMT HD ◉" tvg-logo="https://go4.pw/USA/cmtt.png" group-title="General",CMT HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzIudHM=
+
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="US - CMT WEST HD" tvg-logo="https://go4.pw/USA/cmtt.png" group-title="General",CMT WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA2MDE2NS50cw==
+
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US - COMEDY CENTRAL HD ◉ " tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="General",COMEDY CENTRAL HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzMudHM=
+
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US - FOX HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/FOX.png" group-title="General",FOX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEyOTUudHM=
+
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US - FREEFORM EAST HD" tvg-logo="https://go4.pw/USA/freo.png" group-title="General",FREEFORM EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE0ODAudHM=
+
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US - FREEFORM WEST HD" tvg-logo="https://go4.pw/USA/freo.png" group-title="General",FREEFORM WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE0NTUudHM=
+
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US - FUSE HD" tvg-logo="https://go4.pw/AMERICA/USA/FUSE-1.png" group-title="General",FUSE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzQudHM=
+
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US - FX EAST HD ◉" tvg-logo="https://go4.pw/USA/fx.png" group-title="General",FX EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzUudHM=
+
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US - FX WEST HD" tvg-logo="https://go4.pw/USA/fx.png" group-title="General",FX WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMjEudHM=
+
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US - FXM HD ◉" tvg-logo="https://go4.pw/USA/fxm.png" group-title="General",FXM HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4NTYudHM=
+
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US - FXX HD ◉" tvg-logo="https://go4.pw/USA/fx.png" group-title="General",FXX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzYudHM=
+
 
 # =====================================
 # SPORT
