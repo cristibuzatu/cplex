@@ -282,10 +282,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-
 #EXTVLCOPT:network-caching=1000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TonyRobbins_white_logo._SL500_FMpng_.png" group-title="Lifestyle",Tony Robbins Network
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8
-
 #EXTINF:54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TMZ_Logo.svg/1280px-TMZ_Logo.svg.png" group-title="Lifestyle",TMZ
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
