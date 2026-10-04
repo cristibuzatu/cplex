@@ -235,9 +235,8 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/250px-BBC_America_logo_2021.svg.png" group-title="General",BBC America
-#EXTVLCOPT:network-caching=1000
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1  tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="General",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/330px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="General",BR Fernsehen Nord
 #EXTVLCOPT:network-caching=1000
@@ -275,12 +274,6 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US - A&E WEST HD" tvg-logo="https://go4.pw/USA/a&ee.png" group-title="General",A&E WEST HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA2MDE3Mi50cw==
-
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US - AMC HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="General",AMC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzAudHM=
-
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US - AMC+ HD" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="General",AMC+ HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjAxMDczLnRz
 
 #EXTINF:-1 tvg-id="awe.us" tvg-name="US - AWE HD" tvg-logo="https://go4.pw/USA/awe.png" group-title="General",AWE HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzNDYudHM=
@@ -324,18 +317,6 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US - IFC HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/IFCFHD.png" group-title="General",IFC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMDgudHM=
 
-#EXTINF:-1 tvg-id="fx.us" tvg-name="US - FX EAST HD ◉" tvg-logo="https://go4.pw/USA/fx.png" group-title="General",FX EAST HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzUudHM=
-
-#EXTINF:-1 tvg-id="fx.us" tvg-name="US - FX WEST HD" tvg-logo="https://go4.pw/USA/fx.png" group-title="General",FX WEST HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMjEudHM=
-
-#EXTINF:-1 tvg-id="fxm.us" tvg-name="US - FXM HD ◉" tvg-logo="https://go4.pw/USA/fxm.png" group-title="General",FXM HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4NTYudHM=
-
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="US - FXX HD ◉" tvg-logo="https://go4.pw/USA/fx.png" group-title="General",FXX HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzYudHM=
-
 #EXTINF:-1 tvg-id="" tvg-name="US - INFAST FHD" tvg-logo="https://go4.pw/USA/infast.png" group-title="General",INFAST FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTM4MjUwNy50cw==
 
@@ -353,12 +334,6 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 
 #EXTINF:-1 tvg-id="tbspacific.us" tvg-name="US - TBS WEST HD" tvg-logo="https://go4.pw/AMERICA/USA/TBSHD-1.png" group-title="General",TBS WEST HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE0NDIudHM=
-
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="US - TNT EAST HD ◉" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="General",TNT EAST HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMjQudHM=
-
-#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US - TNT WEST HD" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="General",TNT WEST HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMDUudHM=
 
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US - USA NETWORK EAST HD ◉" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/USA_Network.png" group-title="General",USA NETWORK EAST HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzNDUudHM=
@@ -418,13 +393,33 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
+# =====================================
+# Filme
+# =====================================
 
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US - TNT EAST HD ◉" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="Filme",TNT EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMjQudHM=
 
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US - TNT WEST HD" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="Filme",TNT WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMDUudHM=
 
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US - FX EAST HD ◉" tvg-logo="https://go4.pw/USA/fx.png" group-title="Filme",FX EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzUudHM=
 
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US - FX WEST HD" tvg-logo="https://go4.pw/USA/fx.png" group-title="Filme",FX WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMjEudHM=
 
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US - FXM HD ◉" tvg-logo="https://go4.pw/USA/fxm.png" group-title="Filme",FXM HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4NTYudHM=
 
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US - FXX HD ◉" tvg-logo="https://go4.pw/USA/fx.png" group-title="Filme",FXX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzYudHM=
 
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US - AMC HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="Filme",AMC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzAudHM=
+
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US - AMC+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Filme",AMC+ HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjAxMDczLnRz
 
 
 
