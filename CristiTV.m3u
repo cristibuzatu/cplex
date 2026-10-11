@@ -213,7 +213,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveWine_circle.png" group-title="Bucatarie",Love Wine
 #EXTVLCOPT:network-caching=1000
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedb8af3a6673c1d0c7859&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=lovewine_lovetv&content_channel_name=Love%20Wine&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7990
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lggb/playlist.m3u8
 
 #EXTINF:59 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/960px-Gusto_TV_logo.jpg" group-title="Bucatarie",Gusto TV
 #EXTVLCOPT:network-caching=1000
@@ -420,9 +420,20 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/500px-CuriosityStreamBlack.svg.png" group-title="DOCUMENTARE",Curiosity Now
-#EXTVLCOPT:network-caching=1000
-https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="Curiosity.Channel.HD.us2" tvg-name="US - CURIOSITY CHANNEL HD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/curiosity-channel-logo-png_seeklogo-484234.png" group-title="DOCUMENTARE",CURIOSITY CHANNEL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTM5NzkwMy50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="US - CURIOSITY NOW FHD" tvg-logo="https://go4.pw/USA/CURIOSITYNOW.png" group-title="DOCUMENTARE",US - CURIOSITY NOW
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTM4MjQ5MS50cw==
+
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US - DISCOVERY CHANNEL HD ◉" tvg-logo="https://go4.pw/ICELAND/ID_Discovery_HD.png" group-title="DOCUMENTARE",US - DISCOVERY CHANNEL HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE0NDAudHM=
+
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="US - DISCOVERY HISTORY" tvg-logo="https://go4.pw/ICELAND/ID_Discovery_HD.png" group-title="DOCUMENTARE",US - DISCOVERY HISTORY
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQ4NzE5LnRz
+
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US - DISCOVERY SCIENCE HD" tvg-logo="https://go4.pw/ICELAND/ID_Discovery_HD.png" group-title="DOCUMENTARE",US - DISCOVERY SCIENCE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE0MzcudHM=
 
 # =====================================
 # Filme
@@ -455,7 +466,35 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 
 
 
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US - PARAMOUNT+ WITH SHOWTIME EAST FHD ◉" tvg-logo="https://go4.pw/USA/para.png" group-title="MOVIES",US - PARAMOUNT+ WITH SHOWTIME EAST FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4NTMudHM=
 
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="US - PARAMOUNT+ WITH SHOWTIME WEST FHD" tvg-logo="https://go4.pw/USA/para.png" group-title="MOVIES",US - PARAMOUNT+ WITH SHOWTIME WEST FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4NTIudHM=
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US - SHOWTIME WEST HD ◉" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4NTIudHM=
+
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US - SHOWTIME 2 HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME 2 HD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4OTMudHM=
+
+#EXTINF:-1 tvg-id="Showtime.2.HD.(Pacific).us2" tvg-name="US - SHOWTIME 2 WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME 2 WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTAzMjQ5NC50cw==
+
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US - SHOWTIME NEXT HD ◉" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME NEXT HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4OTgudHM=
+
+#EXTINF:-1 tvg-id="Showtime.Next.HD.(Pacific).us2" tvg-name="US - SHOWTIME NEXT WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME NEXT WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTAzMjQ5NS50cw==
+
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US - SHOWTIME SHOWCASE EAST HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME SHOWCASE EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4OTQudHM=
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.(Pacific).us2" tvg-name="US - SHOWTIME SHOWCASE WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME SHOWCASE WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTAzMjQ5Ni50cw==
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US - SHOWTIME EXTREME HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME EXTREME HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE4OTUudHM=
 
 
 
