@@ -362,7 +362,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="wetv.us" tvg-name="US - WE TV HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/WETV.png" group-title="General",WE TV HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzNjEudHM=
 
-#EXTINF:138 tvg-logo="https://f4.bcbits.com/img/0010120670_10.jpg" like Gecko) Chrome/118.0.4044.138 Safari/537.36 group-title="General" - Korean Central Television
+#EXTINF:138 tvg-logo="https://f4.bcbits.com/img/0010120670_10.jpg" group-title="General",Korean Central Television
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
