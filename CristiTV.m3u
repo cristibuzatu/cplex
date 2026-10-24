@@ -86,7 +86,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:0 tvg-logo="https://www.itizaps.net/zapper/logo/b/totalmusic-dance.png" group-title="Muzica",Totalmusic Dance
+#EXTINF:0 tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Muzica",ent comedy
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
@@ -114,7 +114,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 # CALATORIE
 # =====================================
 
-#EXTINF:0 tvg-logo="" group-title="Calatorie",China Travel
+#EXTINF:0 tvg-logo="https://cdn.technettv.com/channel/34140/logo_256.png" group-title="Calatorie",China Travel
 #EXTVLCOPT:network-caching=1000
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8?
 
@@ -226,9 +226,6 @@ https://newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8
 # =====================================
 # GENERAL
 # =====================================
-
-#EXTINF:-1  tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="General",BBC One
-http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/AxMen-81578.png" group-title="General",Ax Men
 #EXTVLCOPT:network-caching=1000
@@ -808,8 +805,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA1NTA0NC50cw==
 #EXTINF:-1 tvg-id="" tvg-name="US - PEACOCK SERIES 1 HD" tvg-logo="https://go4.pw/USA/PEACOCK_SERIES.png" group-title="PREMIUM",US - PEACOCK SERIESS 12 HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA1NTA0NS50cw==
-#EXTINF:-1 tvg-id="" tvg-name="US - CRUNCHYROLL HD" tvg-logo="https://go4.pw/USA/18.png" group-title="PREMIUM",US - CRUNCHYROLL HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNjMzMjYyLnRz
+
 
 
 
