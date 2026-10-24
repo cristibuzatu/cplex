@@ -238,7 +238,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTVLCOPT:network-caching=1000
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
-#EXTINF:49 tvg-logo="https://images.seeklogo.com/logo-png/0/2/3sat-logo-png_seeklogo-848.png" group-title="General",3sat
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/3sathd.png" group-title="General",3sat
 #EXTVLCOPT:network-caching=1000
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 
@@ -362,7 +362,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="wetv.us" tvg-name="US - WE TV HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/WETV.png" group-title="General",WE TV HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzNjEudHM=
 
-#EXTINF:138, tvg-name="https://f4.bcbits.com/img/0010120670_10.jpg" like Gecko) Chrome/118.0.4044.138 Safari/537.36 group-title="General" - Korean Central Television
+#EXTINF:138, tvg-logo="https://f4.bcbits.com/img/0010120670_10.jpg" like Gecko) Chrome/118.0.4044.138 Safari/537.36 group-title="General" - Korean Central Television
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -385,7 +385,7 @@ https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-e
 https://a93379cfd9984195b6101828a7a95b81.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-VIDAA/641/vidaa/hls/master/playlist.m3u8?ads.ifa=IFA&ads.ifa_type=IFA_TYPE&ads.device_type=DEVICE_TYPE&ads.brand_name=BRAND_NAME&ads.device_country=DEVICE_COUNTRY&ads.device_osv=DEVICE_OSV&ads.device_language=DEVICE_LANGUAGE&ads.dnt=DNT&ads.gdpr=GDPR&ads.gdpr_consent=GDPR_CONSENT&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ad.vpi=VPI&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.vidaa_ads_param=1199898630
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fsqmwb.png" group-title="Sport", Hunt Fish TV
-https://streams2.sofast.tv/ptnr-whaletv/title-SPORT-FISHING-TV-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8cdaa3a1-be8c-447d-af2f-d9293483a49c/manifest.m3u8?ads.tag_id=138607&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Sport+Fishing+TV&ads.wtv_channel_id=0550&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_SportFishingTV&ads.content_categories=IAB17%2CIAB20-1%2CIAB17-11&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
+https://streams2.sofast.tv/ptnr-whaletv/title-HUNT_FISH_TV_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0e7b5dc5-af48-45be-aec8-ca327aab016b/master.m3u8?ads.tag_id=148553&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Hunt+Fish+TV&ads.wtv_channel_id=0536&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_HuntFishTV&ads.content_categories=IAB19-29%2CIAB17%2CIAB17-14%2CIAB17-11&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
 
 #EXTINF:0 tvg-logo="https://www.unistechnology.com.hk/wp-content/uploads/2023/06/Logo-2.png" group-title="Sport",Wicked Tuna
 #EXTVLCOPT:network-caching=1000
