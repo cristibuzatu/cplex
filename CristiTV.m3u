@@ -94,7 +94,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 #EXTVLCOPT:network-caching=1000
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://vodafoneziggo.scene7.com/is/content/vodafoneziggo/123_xite?fmt=svg" group-title="Muzica",XITE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Xite_Logo_New.jpg" group-title="Muzica",XITE
 #EXTVLCOPT:network-caching=1000
 https://xite-rakuten.amagi.tv/playlist.m3u8
 
