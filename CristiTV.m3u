@@ -175,7 +175,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZl
 #EXTINF:-1  tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Natura",Animal Planet US
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Wild Planet" tvg-logo="" group-title="Natura",Wild Planet
+#EXTINF:0 tvg-id="" tvg-name="Wild Planet" tvg-logo="https://picturetolink.com/i/nOIFrNhSxE.png" group-title="Natura",Wild Planet
 #EXTVLCOPT:network-caching=1000
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 
