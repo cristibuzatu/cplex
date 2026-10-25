@@ -90,7 +90,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/250px-Radio_m2o_-_Logo_2019.svg.png" group-title="Muzica",m2o TV
+#EXTINF:0, tvg-logo="https://picturetolink.com/i/9za8yY8dQQ.png" group-title="Muzica",m2o TV
 #EXTVLCOPT:network-caching=1000
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
