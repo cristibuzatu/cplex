@@ -246,8 +246,28 @@ https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://industrie-contact.de/wp-content/uploads/2013/10/Logo-ProSieben-1170x658.png" group-title="General",ProSieben
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" group-title="General",ProSieben Maxx
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+
+#EXTINF:20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/ServusTV_Logo.png" group-title="General",ServusTV
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/servuz1/index.m3u8
+
 #EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo-391x375.png" group-title="General",Kanal D Romania 
 https://stream1.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Pro_TV_HD_logo_2017.png" group-title="General",PRO TV HD
+#EXTVLCOPT:network-caching=1000
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pro-tv-internaional-logo-png_seeklogo-456818.png" group-title="General",PRO TV International
+#EXTVLCOPT:network-caching=1000
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="General",ARD-alpha
 #EXTVLCOPT:network-caching=1000
